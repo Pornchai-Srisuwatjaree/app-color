@@ -3,7 +3,6 @@ import socket
 import random
 import os
 
-app = Flask(__name__)
 
 color_codes = {
     "red": "#e74c3c",
